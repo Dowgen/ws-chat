@@ -1,4 +1,4 @@
-# ws-learn
+# ws-chat
 
 ## Project setup
 ```
